@@ -6,3 +6,5 @@
 [assignment4](https://github.com/JannoJulicher/assignments/blob/master/assignment4.ipynb)
 
 [assignment5](https://github.com/JannoJulicher/assignments/blob/master/Graded_assignment1Eind.ipynb)
+
+[assignment6](https://github.com/JannoJulicher/assignments/blob/master/Graded_assignment_2Eind.ipynb)
